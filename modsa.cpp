@@ -1,9 +1,9 @@
 /*
     * m0d_SA Mobile v0.0.0.4
     *
-    * Authors - QDS Team
-    * YouTube - https://www.youtube.com/Quildeesaw
-    * Community - https://vk.com/quildeesaw
+    * Authors - Ali_Usa
+    * YouTube - hdhdjs
+    * Community - https://vk.com/axi005
     * Source - https://github.com/qdsteam/m0d_SA_Mobile
 */
 
